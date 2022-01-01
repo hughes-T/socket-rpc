@@ -12,4 +12,12 @@
     <artifactId>rpc-service-provider</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.hughes</groupId>
+            <artifactId>rpc-service-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
